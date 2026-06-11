@@ -8,7 +8,7 @@
 
 [![Website](https://img.shields.io/badge/Website-backtestx.in-0EA5E9?style=flat-square&logo=google-chrome&logoColor=white)](https://backtestx.in)
 [![Twitter](https://img.shields.io/badge/Twitter-@backtestx--in-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/backtestx-in)
-[![Email](https://img.shields.io/badge/Email-backtestx.app@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:support@backtestx.in)
+[![Email](https://img.shields.io/badge/Email-support@backtestx.in-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:support@backtestx.in)
 
 </div>
 
