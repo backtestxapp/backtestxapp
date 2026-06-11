@@ -8,7 +8,7 @@
 
 [![Website](https://img.shields.io/badge/Website-backtestx.in-0EA5E9?style=flat-square&logo=google-chrome&logoColor=white)](https://backtestx.in)
 [![Twitter](https://img.shields.io/badge/Twitter-@backtestx--in-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/backtestx-in)
-[![Email](https://img.shields.io/badge/Email-backtestx.app@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:backtestx.app@gmail.com)
+[![Email](https://img.shields.io/badge/Email-backtestx.app@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:support@backtestx.in)
 
 </div>
 
@@ -41,10 +41,7 @@ BacktestX is a powerful trading backtesting platform that lets traders test, ref
 
 | Repo | Description |
 |------|-------------|
-| [backtestx-web](https://github.com/backtestxapp/backtestx-web) | 🌐 Main web platform frontend |
-| [backtestx_android_code](https://github.com/backtestxapp/backtestx_android_code) | 📱 Android app |
-| [backtestx_lightweight_chart](https://github.com/backtestxapp/backtestx_lightweight_chart) | 📈 Custom charting library integration |
-| [firebase-functions](https://github.com/backtestxapp/firebase-functions) | ☁️ Backend cloud functions |
+| [backtestx-lightweight-chart](https://github.com/backtestxapp/backtestx-lightweight-chart) | 🌐 Backtestx Lightweight chart |
 
 ---
 
