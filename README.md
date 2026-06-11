@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://backtestx.in/assets/logo.png" alt="BacktestX Logo" width="80" height="80"/>
+<img src="https://backtestx.in/logo.png" alt="BacktestX Logo" width="80" height="80"/>
 
 # BacktestX
 
