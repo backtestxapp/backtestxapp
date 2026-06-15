@@ -41,7 +41,7 @@ BacktestX is a powerful trading backtesting platform that lets traders test, ref
 
 | Repo | Description |
 |------|-------------|
-| [backtestx-lightweight-chart](https://github.com/backtestxapp/backtestx-lightweight-chart) | 🌐 Backtestx Lightweight chart |
+| [backtestx-lightweight-chart](https://github.com/backtestx-official/backtestx-lightweight-chart) | 🌐 Backtestx Lightweight chart |
 
 ---
 
